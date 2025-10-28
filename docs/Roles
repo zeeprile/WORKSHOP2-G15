@@ -1,0 +1,64 @@
+GROUP 15 – WORKSHOP 2  
+Project Title: Intelligent Crop Disease Detection System Using Deep Learning  
+Supervisor: Ts. Dr. Mazlan Mohamed  
+University: Universiti Teknikal Malaysia Melaka (UTeM)  
+Course: Bachelor of Computer Science (Artificial Intelligence)
+
+───────────────────────────────────────────────
+TEAM ROLES & RESPONSIBILITIES (FINAL VERSION)
+───────────────────────────────────────────────
+
+1. ELANGO A/L VELLASAMY (B032310233)
+   Role: Team Leader & Mobile App Developer (Module 3 – Results & Recommendations)
+   Responsibilities:
+   • Lead and coordinate the project workflow, team communication, and weekly progress.
+   • Develop the Flutter mobile interface (Home, Upload, Result, About).
+   • Integrate the trained TensorFlow Lite model with the Flutter app.
+   • Manage GitHub repository, commits, and version control.
+   • Conduct integration testing for real-time disease detection.
+   • Present the final demo and documentation to the supervisor.
+
+2. YEW ZHI YU (B032310595)
+   Role: Model & Dataset Developer (Module 1 & 2 – Image Capture, Preprocessing & CNN Model)
+   Responsibilities:
+   • Handle dataset collection, cleaning, and preprocessing.
+   • Perform image enhancement, noise removal, segmentation, and normalization.
+   • Train CNN model using TensorFlow/Keras (MobileNetV2 transfer learning).
+   • Convert trained .h5 model to TensorFlow Lite (.tflite) for mobile deployment.
+   • Upload model training notebook to GitHub under /notebooks/.
+   • Document preprocessing pipeline and model performance results.
+
+3. MUHAMMAD FAIZ BIN MOHD SALLEH (B032420081)
+   Role: Model Testing & Evaluation Analyst (Module 3 Support)
+   Responsibilities:
+   • Validate CNN predictions on test images.
+   • Generate confusion matrix, precision, recall, and accuracy reports.
+   • Support model performance tuning and dataset analysis.
+   • Assist Elango and Yew in integration testing with Flutter + TFLite.
+   • Contribute to final project report and result documentation.
+
+4. ABDULAZIZ ALI SALEM AWADH (B032310888)
+   Role: Documentation & Integration Support
+   Responsibilities:
+   • Prepare and compile proposal, report, and presentation slides.
+   • Document technical and non-technical project modules.
+   • Support integration testing between UI and CNN model.
+   • Maintain organized folder structure in GitHub (/docs/).
+   • Handle formatting and final submission preparation.
+
+───────────────────────────────────────────────
+MODULE-TO-MEMBER MAPPING
+───────────────────────────────────────────────
+| Module | Description | Responsible Member(s) |
+|---------|--------------|-----------------------|
+| Module 1 | Image Capture & Preprocessing | Yew Zhi Yu |
+| Module 2 | Disease Detection Engine (CNN) | Yew Zhi Yu & Faiz |
+| Module 3 | Results & Recommendations (UI + Integration) | Elango & Abdulaziz |
+| Documentation | Proposal, report, presentation slides | Abdulaziz |
+
+───────────────────────────────────────────────
+NOTES:
+- Module 1 includes dataset cleaning, enhancement, segmentation, and normalization.
+- Module 2 focuses on CNN model training, optimization, and conversion to .tflite.
+- Module 3 covers Flutter app integration, result visualization, and testing.
+───────────────────────────────────────────────
