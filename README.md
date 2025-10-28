@@ -1,10 +1,10 @@
-# 🌱 Intelligent Crop Disease Detection System Using Deep Learning  
+# Intelligent Crop Disease Detection System Using Deep Learning  
 **Workshop 2 — Group 15**  
 **Universiti Teknikal Malaysia Melaka (UTeM)**  
 
 ---
 
-## 🧠 Overview
+## Overview
 This project aims to develop an **Intelligent Crop Disease Detection System** using **deep learning**.  
 The system enables farmers or agricultural users to **capture or upload leaf images** and instantly detect possible diseases. It provides **disease information and treatment recommendations**, empowering farmers to make data-driven decisions.
 
@@ -12,14 +12,14 @@ The mobile app is built using **Flutter** (for Android/iOS), integrating a **Ten
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 1. **Develop a CNN-based model** that can classify crop leaf diseases with high accuracy.  
 2. **Design a mobile application interface** for users to capture/upload images and view results.  
 3. **Integrate and test the trained deep learning model** in a real-time mobile environment.
 
 ---
 
-## 🧩 Project Modules
+## Project Modules
 
 ### **Module 1 — User Interface (Flutter App)**
 - Design user-friendly mobile interface (Home, Upload, Result, About)
@@ -40,7 +40,7 @@ The mobile app is built using **Flutter** (for Android/iOS), integrating a **Ten
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |------------|-------------|
@@ -54,7 +54,7 @@ The mobile app is built using **Flutter** (for Android/iOS), integrating a **Ten
 
 ---
 
-## 👥 Team (Group 15)
+## Team (Group 15)
 
 | Name | Matric No. | Role |
 |------|-------------|------|
